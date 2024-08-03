@@ -27,24 +27,43 @@ Clash客户端导入订阅报错的话，浏览器打开https://bianyuan.xyz/或
 有问题请发工单或者联系官网右下角在线客服。
 没有优惠码，套餐越大越优惠，所有套餐均不支持退款。
 能访问官网就能导入节点的。复制订阅地址到浏览器访问，看到一堆乱码后，复制乱码，粘贴到v2ray客户端，就是导入了节点（v2ray客户端空白地方，右击，从剪贴板批量导入URL）
+
+
 飞鸟云官网以及备用网址：
 网址：[https://feiniaoyun14.life](https://feiniaoyun14.life) 
+
 网址：[https://feiniaoyun13.life](https://feiniaoyun13.life) 
+
 网址：[https://feiniaoyun12.life](https://feiniaoyun12.life) 
+
 网址：[https://feiniaoyun10.life](https://feiniaoyun10.life) 
+
 网址：[https://feiniaoyun09.life](https://feiniaoyun09.life) 
+
 网址：[https://feiniaoyun08.life](https://feiniaoyun08.life) 
+
 网址：[https://feiniaoyun07.life](https://feiniaoyun07.life) 
+
 网址：[https://feiniaoyun06.life](https://feiniaoyun06.life) 
+
 网址：[https://feiniaoyun05.life](https://feiniaoyun05.life) 
+
 网址：[https://feiniaoyun04.life](https://feiniaoyun04.life) 
+
 网址：[https://feiniaoyun03.life](https://feiniaoyun03.life) 
+
 网址：[https://feiniaoyun02.life](https://feiniaoyun02.life) 
+
 网址：[https://feiniaoyun01.life](https://feiniaoyun01.life) 
+
 网址：[https://feiniaoyun01.com](https://feiniaoyun01.com) 
+
 网址：[https://feiniaoyun01.top](https://feiniaoyun01.top) 
+
 网址：[https://feiniaoyun01.xyz](https://feiniaoyun01.xyz) 
+
 网址：[https://feiniaoyun.top](https://feiniaoyun.top) 
+
 网址：[https://feiniaoyun.org](https://feiniaoyun.org)
 
 网址：[https://feiniaoyun.net](https://feiniaoyun.net)
@@ -57,10 +76,14 @@ Clash客户端导入订阅报错的话，浏览器打开https://bianyuan.xyz/或
 【iOS用户】看官网左侧菜单，使用文档，iOS教程，里面有免费ID下载免费的oneclick客户端，或者自行注册一个国外ID下载oneclick客户端。
 不限时套餐：10元200G流量包，15元400G流量包，20元600G流量包。默认显示的价格已经是打折后的价格，没有优惠码，不会有价格再变动，所有套餐都有支付平台加收的支付手续费5%，所有套餐均不支持退款。
 若出现问题，最好提交工单，工单没有回复，可以联系右下角蓝色图标在线客服
+
+
 若【无法访问】请尝试关闭代理，使用手机的手机流量访问
 邀请返利：邀请好友充值获取30%的返利！循环返利，续费也有！
 满10USDT即可申请提现！提现方式仅支持USDT-TRC20地址提现，不支持支付宝提现，提现需要扣1USDT手续费，交易所收取的手续费或矿工费。
 提现请提交工单，每3天审核完毕打款！
 请加入我们的TG电报群群组:[https://t.me/feiniaoyunjichang](https://t.me/feiniaoyunjichang) 防止走丢！！！
+
+
 【特别声明】 使用本服务必须遵守当地相关法律法规;严禁使用本网络进行网络攻击、Spam、P2P下载、BT版权下载及所有国家法律所不允许的非法活动，严禁访问，谢绝极端政治/宗教及黑产人士，违规直接封号。
 【特别注意】 所有套餐均不支持退款。
