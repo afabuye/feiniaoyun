@@ -54,6 +54,13 @@ https://my.subcloud.xyz
 
 
 飞鸟云官网以及备用网址：
+
+网址：[https://3.feiniaoyun.top](https://3.feiniaoyun.top) 
+
+网址：[https://4.feiniaoyun.top](https://4.feiniaoyun.top) 
+
+网址：[https://5.feiniaoyun.top](https://5.feiniaoyun.top) 
+
 网址：[https://feiniaoyun14.life](https://feiniaoyun14.life) 
 
 网址：[https://feiniaoyun13.life](https://feiniaoyun13.life) 
